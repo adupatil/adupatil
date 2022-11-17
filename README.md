@@ -48,11 +48,11 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Cancer%20Diagnosis%20Prediction%20Image-min.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/tu3f1718036/cityscapes-segmentation)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Heart%20Disease%20Prediction-min.jpg" width = 500 height = 300/>](https://github.com/adupatil/Image_Generator)
 
-| 🏚 [Airbnb Home Prices Prediction](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [☎️ __Telco Customer Churn Prediction__](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
+| 🏚 [TItanic Survival Prediction](https://www.kaggle.com/code/tu3f1718036/titanic-survival)| [Face Detector](https://github.com/adupatil/Face_detector)|
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/AirBnb%20Houses%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Airbnb-Home-Prices-Prediction)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Telco%20Customer%20Churn%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Telco-Customer-Churn-Prediction)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/AirBnb%20Houses%20Introduction-min.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/tu3f1718036/titanic-survival)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Telco%20Customer%20Churn%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/adupatil/Face_detector)|
 
-<h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
+<!-- <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
 
 | 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
@@ -107,7 +107,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 | 🍔 [Adare Restaurant Webpage](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | 🏍🚲 [Roar Bikes Webpage](https://github.com/suhasmaddali/Roar-Bikes-Webpage) |
 | :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/adare%20restaurant%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Adare-Restaurant-Webpage) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/roar_bikes.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Roar-Bikes-Webpage)| -->
 
 ## 🖥 Work Experience 
 
