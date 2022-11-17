@@ -52,32 +52,32 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/AirBnb%20Houses%20Introduction-min.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/tu3f1718036/titanic-survival)| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Telco%20Customer%20Churn%20Introduction-min.jpg" width = 500 height = 300/>](https://github.com/adupatil/Face_detector)|
 
-<!-- <h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects</h2> 
+<h2 align = "center"> Reinvent The Wheel 2.0</h2> 
 
-| 📚 [Predicting Readability of Texts](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Twitter Sentiment Analysis](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
+| 📚 [Forecasting volume of scrap ](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| 👹 [Logistics Dispatch Optimization](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis) |
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Images/blob/main/readability%20image.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Predicting-Readability-of-Texts-Using-Machine-Learning)| [<img src="https://github.com/suhasmaddali/Images/blob/main/twitter%20sentiment.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Twitter-Sentiment-Analysis)|
 
-| ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
+<!-- | ⁉️ [Quora Question Pair Similarity](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
 | :-:|
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Quora-Question-Pairs-Similarity)| -->
 
 <h2 align = "center"> 🖥 Computer Vision Projects</h2>
 
-| 🎋 [Wheat Disease Detection Using Deep and Transfer Learning](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| 🕸 [Convolutional Neural Networks CNN Implementation Using Keras](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras) |
+| 🎋 [Image Classification using Transfer Learning](https://github.com/adupatil/Image_classification)| 🕸 [Object Detection using CNNs](https://github.com/adupatil/Object-Detector) |
 | :-:| :-:| 
-| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Disease-Detection-)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Basic%20network%20Image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Convoluted-Neural-Networks-CNN-Implementation-Using-Keras)|
+| [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/wheat%20image%201-min.jpg" height = 300 width = 500/>](https://github.com/adupatil/Image_classification)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Basic%20network%20Image%202-min.jpg" height = 300 width = 500/>](https://github.com/adupatil/Object-Detector)|
 
-| 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) |
+<!-- | 🌾 [Wheat Localization With Convolutional Neural Networks (CNNs)](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| 🥄 [Steel Defect Detection](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge) |
 | :-:| :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/Wheat%20image%202-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Wheat-Detection-Using-Computer-Vision)| [<img src="https://github.com/suhasmaddali/Compressed-Images/blob/main/Steel%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/Steel-Defect-Detection-Challenge)|
 
 | 🔢 [MNIST Digits Classification](https://github.com/suhasmaddali/MNIST-classification-)| 
 | :-:| 
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
+ -->
 
-
-<h2 align = "center"> 🖥 Data Visualization Projects </h2> 
+<!-- <h2 align = "center"> 🖥 Data Visualization Projects </h2> 
 
 | 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
 | :-: | :-: | 
@@ -155,7 +155,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
 
-## 🖥 Assignments and Coursework 
+<!-- ## 🖥 Assignments and Coursework 
 
 &emsp;&emsp; 📙 [__DS5220 Supervised Machine Learning__](https://github.com/suhasmaddali/DS5220-Supervised-Machine-Learning)
 
@@ -183,9 +183,9 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202)
 
-&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf)
+&emsp;&emsp; &emsp;&emsp; 📖 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) -->
 
-## 🖥 Academic Transcripts
+<!-- ## 🖥 Academic Transcripts
 
 &emsp;&emsp; [<img src = "https://github.com/suhasmaddali/Images/blob/main/VNRVJIETLogo.png" width = "75" height = "75"/>](http://www.vnrvjiet.ac.in)
 
@@ -303,7 +303,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; ✅ [__Abhik Lahiri__](https://www.linkedin.com/in/abhik-lahiri-0722298/) - Machine Learning Lead at [__PathAI__](https://www.pathai.com)
 
-&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292)
+&emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) -->
 
 ## 🖥 Contact Information
 
@@ -320,7 +320,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 &emsp;&emsp; ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
 
 
-## 📔📓My Inspiration😀😀:
+<!-- ## 📔📓My Inspiration😀😀:
 
 ![](https://github.com/suhasmaddali/Images/blob/main/Inspiration%20Photo%20New.jpg)
 
@@ -604,7 +604,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 🏍🚲 [__Roar Bikes Webpage__](https://github.com/suhasmaddali/Roar-Bikes-Webpage)
 
 * Roar bikes is a bike service company that uses online applications to filter the potential candidates for the service of their bikes.
-* The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service.
+* The front end of the web application is designed along with all the functionalities so that it becomes easy for the user to search and navigate the most appropriate bike service. -->
 
 ## 📐📑 My Work Experience 
 
@@ -738,7 +738,7 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) - Most of the assignment was about performing calculations and computing the sensitivity and specificity by taking into account various thresholds. Furthermore, there are other interesting questions asked such as lift charts and others. Overall, the assignment helps in understanding the concepts of sensitivity and specificity well along with a few other things such as true-positive rate, false-positive rate, precision, recall, and f1-score with various threshold values. In addition to this, it is also important to explain to the business people in terms of monetary values instead of machine learning terms. Therefore, an exercise is given that explains using total profit as a metric and how it changes based o the various values of the threshold that we have taken into consideration.
 
-## 🚌👨‍🏫 Academic Transcripts 
+<!-- ## 🚌👨‍🏫 Academic Transcripts 
 
 In this section of the portfolio, I attach the transcript documents. I also briefly highlight my interests and the knowledge gained as a result of pursuing the degrees and completing them. Feel free to click on the links for the transcripts. 
 
@@ -873,7 +873,7 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__Step-by-step Approach of Building Data Pipelines as a Data Scientist or a Machine Learning Engineer__](https://medium.com/towards-data-science/step-by-step-approach-of-building-data-pipelines-as-a-data-scientist-or-a-machine-learning-engineer-4b3e8da3bcd1) - There are a list of steps that are usually followed by data scientists and machine learning engineers to build interesting artificial intelligence applications. In the article highlighted, a sequence of steps that are usually followed in data science cycle are mentioned to make it easier to implement machine learning solutions. 
 
-📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5) - Feature engineering can be one of the most important steps in a machine learning cycle. Learning to use the right strategies for feature engineering boosts the performance of these intricate models to a large extent. In the article, a list of a large number of feature engineering techniques are presented to the community so that they could be used later when needed. Following these steps can make it easier to develop a machine learning cycle and get better predictions from a large set of ML models. 
+📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5) - Feature engineering can be one of the most important steps in a machine learning cycle. Learning to use the right strategies for feature engineering boosts the performance of these intricate models to a large extent. In the article, a list of a large number of feature engineering techniques are presented to the community so that they could be used later when needed. Following these steps can make it easier to develop a machine learning cycle and get better predictions from a large set of ML models.  -->
 
 ## 🎼👨‍🎓 Key Learnings
 
@@ -883,7 +883,7 @@ During my machine learning journey, I had a good time learning important things 
 
 📽 [__Jose Portilla's Reinforcement Learning Course__](https://github.com/suhasmaddali/Jose-Portilla-Reinforcement-Learning) - One of the interesting things about the intructor [Jose Portilla](https://www.udemy.com/user/joseportilla/) is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanded concepts related to python. 
 
-## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
+<!-- ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/state%20of%20the%20art%20techniques%20image.gif" width = "750"/>
 
@@ -1009,7 +1009,7 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
 
 
-😄😄😄😄😄😄😄😄😄😄😄😄
+😄😄😄😄😄😄😄😄😄😄😄😄 -->
 
 
 
