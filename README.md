@@ -77,13 +77,13 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 | [<img src = "https://github.com/suhasmaddali/Compressed-Images/blob/main/MNIST%20image-min.jpg" height = 300 width = 500/>](https://github.com/suhasmaddali/MNIST-classification-)|
  -->
 
-<!-- <h2 align = "center"> 🖥 Data Visualization Projects </h2> 
+<h2 align = "center"> 🖥 Data Visualization Projects </h2> 
 
-| 📽 [YouTube Video Analysis](https://github.com/suhasmaddali/Youtube-Video-Analysis)| 🔍 [Google Play store Genre Prediction](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
+| 📽 [YouTube Trending Video Analysis](https://www.kaggle.com/code/smitshah00/youtubestatistics)| 🔍 [Kaggle Survey](https://www.kaggle.com/code/nippani/kaggle-survey-eda)|
 | :-: | :-: | 
-| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Youtube-Video-Analysis) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/Google-Play-Store-Genre-Prediction)|
+| [<img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Analysis%20image.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/smitshah00/youtubestatistics) | [<img src = "https://github.com/suhasmaddali/Images/blob/main/Google%20Genre%20Prediction.jpg" width = 500 height = 300/>](https://www.kaggle.com/code/nippani/kaggle-survey-eda)|
 
-<h2 align = "center"> 🖥 SQL Projects</h2> 
+<!-- <h2 align = "center"> 🖥 SQL Projects</h2> 
 
 | 🚕 [Cab Reservation System](https://github.com/suhasmaddali/Cab-Reservation-System-)|
 | :-: |
@@ -121,7 +121,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
  
 &emsp;&emsp; 🤖🦾 [__Data Scientist__](https://github.com/suhasmaddali/Data-Scientist-Solbots-Roles-and-Responsibilities/blob/main/README.md) | [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) __[January 2018 - December 2018]__
 
-## 🖥 Education 
+<!-- ## 🖥 Education 
 
 &emsp;&emsp; 🏫 [__Northeastern University Khoury College of Computer Science__](https://www.khoury.northeastern.edu)
 
@@ -153,7 +153,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; &emsp;&emsp; 🍐 [__Convolutional Neural Networks__  ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ](https://www.coursera.org/account/accomplishments/certificate/EFUK59UCML9F)
 
-&emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf) 
+&emsp;&emsp; 🌱 [__Complete Tensorflow 2 and Keras Deep Learning Bootcamp__ ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://github.com/suhasmaddali/Certifications/blob/main/Complete%20learning%20Tensorflow%202%20and%20Keras%20Deep%20Learning%20Bootcamp%20by%20Jose%20Portilla.pdf)  -->
 
 <!-- ## 🖥 Assignments and Coursework 
 
@@ -305,7 +305,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; ✅ [__Mano Satya Sai__](https://www.linkedin.com/in/nagireddy-mano-satya-sai-567062141/) - Chief Executive Officer at [__Solbots Technologies Private Limited__](https://www.zaubacorp.com/company/SOLBOTS-TECHNOLOGIES-PRIVATE-LIMITED/U72900TG2018PTC128292) -->
 
-## 🖥 Contact Information
+<!-- ## 🖥 Contact Information
 
 &emsp;&emsp; 📱 __Phone No:__ __617-671-5751__
 
@@ -317,7 +317,7 @@ I had an amazing experience doing __machine learning__ and __deep learning__ pro
 
 &emsp;&emsp; 📘 __Facebook:__ __https://www.facebook.com/suhas.maddali__
 
-&emsp;&emsp; ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__
+&emsp;&emsp; ✍🏻 __Medium:__ __https://suhas-maddali007.medium.com__ -->
 
 
 <!-- ## 📔📓My Inspiration😀😀:
@@ -628,7 +628,7 @@ With the help of the tools such as __HTML__, __CSS__, and __bootstrap__, website
 
 <hr style="border:0.01px solid blue">
 
-👨‍🏫🧑‍🏫 [__TA (Natural Language Processing)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2021 - May 2022]__
+<!-- 👨‍🏫🧑‍🏫 [__TA (Natural Language Processing)__](https://github.com/suhasmaddali/Graduate-Teaching-Assistant-NLP-) | [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) __[December 2021 - May 2022]__
 
 - I'm a graduate teaching assistant in Khoury College of Computer Sciences Northeastern for the course Natural Language Processing (NLP CS6120) under professor [Uzair Ahmad](https://www.khoury.northeastern.edu/people/uzair-ahmad/).
 - I'm involved in designing the assignments to students, teaching them concepts and improving their performance on the tests.
@@ -736,7 +736,7 @@ The course was interesting in that it focuses mostly on the insights generated f
 
 🏀 [__Assignment 2__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/tree/main/Assignment%202) - In this assignment, we were asked to plot useful figures with plotly library. Plotly provides interactive visualizations where users can hover over the figure to find interesting trends in the data. Furthermore, there are other interesting plots generated in the assignment such as Chloropleths which give a good detailed geometric intuition of the data. It was fun and intuitive to work on this assignment and learning the full capabilities of using Plotly library. 
 
-🏀 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) - Most of the assignment was about performing calculations and computing the sensitivity and specificity by taking into account various thresholds. Furthermore, there are other interesting questions asked such as lift charts and others. Overall, the assignment helps in understanding the concepts of sensitivity and specificity well along with a few other things such as true-positive rate, false-positive rate, precision, recall, and f1-score with various threshold values. In addition to this, it is also important to explain to the business people in terms of monetary values instead of machine learning terms. Therefore, an exercise is given that explains using total profit as a metric and how it changes based o the various values of the threshold that we have taken into consideration.
+🏀 [__Assignment 3__](https://github.com/suhasmaddali/Data-Mining-in-Engineering/blob/main/Assignment%203/Homework%203%20Group%2014.pdf) - Most of the assignment was about performing calculations and computing the sensitivity and specificity by taking into account various thresholds. Furthermore, there are other interesting questions asked such as lift charts and others. Overall, the assignment helps in understanding the concepts of sensitivity and specificity well along with a few other things such as true-positive rate, false-positive rate, precision, recall, and f1-score with various threshold values. In addition to this, it is also important to explain to the business people in terms of monetary values instead of machine learning terms. Therefore, an exercise is given that explains using total profit as a metric and how it changes based o the various values of the threshold that we have taken into consideration. -->
 
 <!-- ## 🚌👨‍🏫 Academic Transcripts 
 
@@ -875,13 +875,13 @@ My interest in machine learning started during my final year of engineering at _
 
 📃 [__Which Feature Engineering Techniques improve Machine Learning Predictions?__](https://medium.com/towards-data-science/which-feature-engineering-techniques-improve-machine-learning-predictions-227d732068f5) - Feature engineering can be one of the most important steps in a machine learning cycle. Learning to use the right strategies for feature engineering boosts the performance of these intricate models to a large extent. In the article, a list of a large number of feature engineering techniques are presented to the community so that they could be used later when needed. Following these steps can make it easier to develop a machine learning cycle and get better predictions from a large set of ML models.  -->
 
-## 🎼👨‍🎓 Key Learnings
+<!-- ## 🎼👨‍🎓 Key Learnings
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Key%20Learnings%20Image.jpg" width = "750"/>
 
 During my machine learning journey, I had a good time learning important things and takeaways while implementing and executing various projects. As a result, I was able to learn iteratively and update my knowledge of the latest technologies and tools used in the process of building interesting AI powered applications. Given below are some of the repositories that I have added which I felt that had key ingredients in them that helped me excel in this data science journey. 
 
-📽 [__Jose Portilla's Reinforcement Learning Course__](https://github.com/suhasmaddali/Jose-Portilla-Reinforcement-Learning) - One of the interesting things about the intructor [Jose Portilla](https://www.udemy.com/user/joseportilla/) is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanded concepts related to python. 
+📽 [__Jose Portilla's Reinforcement Learning Course__](https://github.com/suhasmaddali/Jose-Portilla-Reinforcement-Learning) - One of the interesting things about the intructor [Jose Portilla](https://www.udemy.com/user/joseportilla/) is his attention to detail and clarity of explanation. Reinforcement learning has a lot of potential especially in database systems and computer systems. After going through the course, I learned a lot of intricate details about how to define an agent and an environment which are the key tools in reinforcement learning. You might take a look at the repository where I present the notebooks which were used for learning the basics and advanded concepts related to python.  -->
 
 <!-- ## 🔬🧐 My Thoughts on State-of-the-art (SOTA) Techniques in Artificial Intelligence:
 
